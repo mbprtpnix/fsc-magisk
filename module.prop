@@ -1,0 +1,7 @@
+id=firacondensedfont
+name=Fira Condensed Font
+version=v1
+versionCode=1
+author=notthebee, Mike_Went
+description=Systemless Fira Condensed Font (by Mozilla)
+minMagisk=1500
