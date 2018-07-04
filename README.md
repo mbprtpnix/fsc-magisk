@@ -1,6 +1,6 @@
 # Fira Sans Condensed for Magisk
-Install **Fira Sans Condensed** as your default font systemless-ly
-
+Install **Fira Sans Condensed** as your default font systemless-ly  
+![screenshot](screenshot.jpg)  
 ## Instructions
 * Clone this repo
 * ZIP it
